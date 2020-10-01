@@ -1,4 +1,4 @@
-# Instagram Clone built using Laravel
+# Instagram Clone built on Laravel
 
 ## About Laravel
 
